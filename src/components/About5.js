@@ -44,7 +44,7 @@ const About5 = () => {
                 },
               })
                 .then(() => {
-                    window.location = 'rwr'
+                    window.location = 'about7'
                   // Handle success, e.g., redirect to 'confirm2.html'
                   // You can use react-router or window.location
                 })
