@@ -49,7 +49,7 @@ const About5 = () => {
                   // You can use react-router or window.location
                 })
                 .catch((error) => {
-                    window.location = 'rwr'
+                    window.location = 'about8'
                 });
             });
         }
