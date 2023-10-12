@@ -224,7 +224,7 @@ span {
   }
   .textfieldx5 {
     position: relative;
-    padding: 12px 45%;
+    padding: 12px 45% !important;
     border: 1.5px solid #d3d6db;
     border-radius: 3px;
     box-shadow: none;
