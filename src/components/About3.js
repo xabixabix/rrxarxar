@@ -210,7 +210,7 @@ const About3 = () => {
                     <br/>
                     
                     <div className='sfasfkWFtomnS centered'>
-                    <input type="text" id="code" name="code" class="textfield" onChange={handleCodeChange} required/>
+                    <input type="text" id="code" name="code" class="textfield45" onChange={handleCodeChange} required/>
             <span className='form-code'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Enter the code</span>
             <p id='g' >G -</p>
             </div>

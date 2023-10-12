@@ -8,7 +8,7 @@ body{
 }
 
 
-.textfield45 {
+.textfield44 {
   position: relative;
   padding: 14px 139px;
   border: 1.5px solid #d3d6db;
@@ -16,7 +16,7 @@ body{
   box-shadow: none;
   outline: none; 
   padding-left: 50px;
-
+  -webkit-text-security: disc;
 
 }
 .centered {
@@ -39,7 +39,7 @@ body{
   
 
 }
-.textfield45:focus {
+.textfield44:focus {
 
 border-color: #609eef;
 border-top-width: 50px;
