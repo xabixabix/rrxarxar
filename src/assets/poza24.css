@@ -224,12 +224,13 @@ span {
   }
   .textfield44 {
     position: relative;
-    padding: 12px 45%;
+    padding-bottom: 12px !important;
+    padding-left: 20px;
     border: 1.5px solid #d3d6db;
     border-radius: 3px;
     box-shadow: none;
     outline: none; 
-    padding-left: 50px;
+
     
   
   }
