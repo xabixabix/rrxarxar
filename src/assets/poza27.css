@@ -224,16 +224,12 @@ span {
   }
   .textfieldx5 {
     position: relative;
-
     padding-bottom: 12px !important;
-
+    padding-left: 20px;
 
     border: 1.5px solid #d3d6db;
     border-radius: 3px;
     box-shadow: none;
     outline: none; 
-
-    
-  
   }
 }
