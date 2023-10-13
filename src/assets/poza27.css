@@ -224,35 +224,16 @@ span {
   }
   .textfieldx5 {
     position: relative;
-    padding: 12px 45% !important;
+
+    padding-bottom: 12px !important;
+
+
     border: 1.5px solid #d3d6db;
     border-radius: 3px;
     box-shadow: none;
     outline: none; 
-    padding-left: 50px;
+
     
   
   }
 }
-  @media screen and (max-width: 468px) {
-    .request-main {
-        border-radius: 2px !important;
-        padding: 15px 15px 150px 15px !important;
-        border: none !important;
-    }
-    
-    .logo {
-      margin-top: -15px !important;
-    }
-    .textfieldx5 {
-      position: relative;
-      padding: 12px 75% !important;
-      border: 1.5px solid #d3d6db;
-      border-radius: 3px;
-      box-shadow: none;
-      outline: none; 
-      padding-left: 50px;
-      
-    
-    }
-  }
